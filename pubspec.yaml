@@ -1,6 +1,4 @@
 name: black_hole_animation
-description: A new Flutter project that demonstates black hole animation
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 version: 1.0.0+1
 
