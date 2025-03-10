@@ -1,3 +1,6 @@
-## Animated prototype for showing and hiding UI widgets
+## Animated prototype for showing and hiding UI widgets. 
 
-![til](./assets/black_hole_animation.gif)
+
+<p align="center">
+  <img src="./assets/black_hole_animation.gif" alt="til" style="width:40%;">
+</p>
